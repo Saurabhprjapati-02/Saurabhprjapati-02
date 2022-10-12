@@ -1,4 +1,6 @@
 
+<h1 align="center">Hi 👋, I'm Saurabh Prajapati</h1>
+
 <div>
   <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+a++Student;I'm+a+Coder;I'm+a++Learner"/>
 </div>
@@ -6,7 +8,6 @@
 <div align="center">
 &nbsp;<img height="450px" src="images/background1.gif">
 </div>
-<h1 align="center">Hi 👋, I'm Saurabh Prajapati</h1>
 <h3 align="center">A passionate Competative Coder from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhprjapati-02&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhprjapati-02" /> </p>
