@@ -1,3 +1,12 @@
+<h1 align="center"> <img align="center" height="50px" width="50px"src="images/hello1.gif"><b>Hello Coders! </b>
+{💖Srajan This Side}</h1>
+<div>
+  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+a++Student;I'm+a+Coder;I'm+a++Learner"/>
+</div>
+<h2 align="center"><img align="center" height="80px" width="95px" src="images/connect.gif"/>Looking Forward To Learn & Contribute With Github Altogether <img align="center" height="80px" width="95px" src="images/connect.gif"/></h2> <br>
+<div align="center">
+&nbsp;<img height="450px" src="images/background1.gif">
+</div>
 <h1 align="center">Hi 👋, I'm Saurabh Prajapati</h1>
 <h3 align="center">A passionate Competative Coder from India</h3>
 
