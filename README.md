@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **hactoberfest**
 
-- 💬 Ask me about **Coding ,Competation**
+- 💬 Ask me about **Coding ,Competition**
 
 - 📫 How to reach me **skprajapati2901@gmail.com**
 
