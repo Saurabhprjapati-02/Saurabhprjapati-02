@@ -1,5 +1,4 @@
-<h1 align="center"> <img align="center" height="50px" width="50px"src="images/hello1.gif"><b>Hello Coders! </b>
-{💖Srajan This Side}</h1>
+
 <div>
   <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+a++Student;I'm+a+Coder;I'm+a++Learner"/>
 </div>
